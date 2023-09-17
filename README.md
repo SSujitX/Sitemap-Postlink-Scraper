@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
 
 ```bash
@@ -31,24 +31,24 @@ git clone https://github.com/your-username/Sitemap-Postlink-Scraper.git
 ```
 
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
-cd website-sitemap-scraper
+cd Sitemap-Postlink-Scraper
 ```
 
 
-Run the script:
+3. Run the script:
 
 
 ```bash
-python sitemap_scraper.py
+python sitemap_post_scraper.py
 ```
 
 
-Follow the on-screen instructions to provide the URL of the website you want to scrape.
+4. Follow the on-screen instructions to provide the URL of the website you want to scrape.
 
-If a sitemap is found on the website, the script will fetch and save the sitemap links to a text file named <website-name>_sitemap_links.txt.
+5. If a sitemap is found on the website, the script will fetch and save the sitemap links to a text file named <website-name>_sitemap_links.txt.
 
 
 
