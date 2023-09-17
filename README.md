@@ -20,13 +20,12 @@ You can install the required libraries using pip:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ## Usage
 Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/Sitemap-Postlink-Scraper.git
+`git clone https://github.com/your-username/Sitemap-Postlink-Scraper.git`
 
 Navigate to the project directory:
 
