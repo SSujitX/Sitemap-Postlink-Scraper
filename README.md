@@ -20,21 +20,31 @@ You can install the required libraries using pip:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 Clone this repository to your local machine:
 
-`git clone https://github.com/your-username/Sitemap-Postlink-Scraper.git`
+
+```bash
+git clone https://github.com/your-username/Sitemap-Postlink-Scraper.git
+```
+
 
 Navigate to the project directory:
 
 ```bash
 cd website-sitemap-scraper
+```
+
 
 Run the script:
+
+
 ```bash
 python sitemap_scraper.py
+```
+
 
 Follow the on-screen instructions to provide the URL of the website you want to scrape.
 
